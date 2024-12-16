@@ -19,6 +19,7 @@ module.exports = {
             email,
             password
         }
+        
         users.push(newUser)
         return newUser
     }
